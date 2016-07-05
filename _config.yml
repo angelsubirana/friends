@@ -22,11 +22,17 @@ touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-25289053-5 ## put YOUR key here to enable tracking! (blank to disable)
 appstore_link: "https://itunes.apple.com/app/safe-web-for-kids/id460723131?ct=web&mt=8"
 
-image:
-  twitter: /img/Icon-Rounded-512@2x.png
-  facebook: /img/Icon-Rounded-512@2x.png
-  height: 1024
-  width: 1024
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+        image:
+            path: /img/Icon-Rounded-512@2x.pngq
+            twitter: /img/Icon-Rounded-512@2x.png
+            facebook: /img/Icon-Rounded-512@2x.png
+            height: 1024
+            width: 1024
   
 ### template colors, used site-wide via css ###
 colors:
