@@ -32,7 +32,7 @@ defaults:
       path: ""
     values:
         image:
-            path: /img/Icon-Rounded-512@2x.pngq
+            path: /img/Icon-Rounded-512@2x.png
             twitter: /img/Icon-Rounded-512@2x.png
             facebook: /img/Icon-Rounded-512@2x.png
             height: 1024
