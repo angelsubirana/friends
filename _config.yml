@@ -32,11 +32,11 @@ defaults:
       path: ""
     values:
         image:
-            path: /img/Icon-Rounded-512@2x.png
-            twitter: /img/Icon-Rounded-512@2x.png
-            facebook: /img/Icon-Rounded-512@2x.png
-            height: 200
-            width: 200
+            path: /img/Icon-Rounded-256.png
+            twitter: /img/Icon-Rounded-256.png
+            facebook: /img/Icon-Rounded-256.png
+            height: 256
+            width: 256
   
 ### template colors, used site-wide via css ###
 colors:
