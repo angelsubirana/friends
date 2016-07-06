@@ -29,6 +29,7 @@ twitter:
     card: app
     site: "@AngryFriendsApp"
     app:
+        name: "Angry Friends for Facebook - Who unfriended me?"
         id: 460723131   
 
 defaults:
