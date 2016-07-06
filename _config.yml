@@ -6,7 +6,7 @@ safe: false
 
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude: [CNAME, README.md, .gitignore, Gemfile. Gemfile.lock]
 permalink: /:title ## disables post output
 timezone: null
 lsi: false
@@ -14,16 +14,16 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Safe Web for kids - Sandbox browser for schools, kiosks and family protection"
+title:       "Angry Friends for Facebook! - Who unfriended me?"
 keywords:    "safe, web, for, kids, control, content, restricted, filter, porn, nofap, blocker, child, limited, adult, access, best, app, mums, ios, whitelist"
-description: "Safe Web is a web browser for iPhone and iPad devices. Don't worry about what your children browse as they will only see what you let them see. Safe Web is a whitelist based Internet browser that only allows to navigate to some predefined websites or domains of your choose. Apart from that, Safe Web creates a sandbox environment where the user can't leave the bookmarked websites domains."
+description: "Have you ever wondered who deleted you on Facebook? Angry Friends will show you who unfriended you!"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-25289053-6 ## put YOUR key here to enable tracking! (blank to disable)
-appstore_link: "https://itunes.apple.com/app/safe-web-for-kids/id460723131?ct=web&mt=8"
+appstore_link: "https://itunes.apple.com/app/angry-friends-for-facebook/id1122583310?ct=web&mt=8"
 # For example, my configuration is this:
 url: https://test.bobgoo.com
-enforce_ssl: test.bobgoo.me
+enforce_ssl: test.bobgoo.com
 
 
 defaults:
