@@ -25,6 +25,11 @@ appstore_link: "https://itunes.apple.com/app/angry-friends-for-facebook/id112258
 url: https://test.bobgoo.com
 enforce_ssl: test.bobgoo.com
 
+twitter:
+    card: app
+    site: "@AngryFriendsApp"
+    app:
+        id: 460723131   
 
 defaults:
   -
@@ -33,10 +38,11 @@ defaults:
     values:
         image:
             path: /img/Icon-Rounded-256.png
-            twitter: /img/Icon-Rounded-256.png
+            #twitter: /img/Icon-Rounded-256.png
             facebook: /img/Icon-Rounded-256.png
             height: 256
             width: 256
+
   
 ### template colors, used site-wide via css ###
 colors:

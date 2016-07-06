@@ -14,7 +14,13 @@
   {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
 	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
 
-{% seo %}
+	{% seo %}
+	
+	<meta name="twitter:card" content="{{ site.twitter.card}}">
+	<meta name="twitter:site" content="{{ site.twitter.site}}">
+	<meta name="twitter:app:id:iphone" content="{{ site.twitter.app.id }}">
+	<meta name="twitter:app:id:ipad" content="{{ site.twitter.app.id }}">
+	
 </head>
 <body>
   <div id="main">
