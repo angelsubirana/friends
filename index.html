@@ -42,8 +42,13 @@
 	<meta name="twitter:app:id:ipad" content="{{ site.twitter.app.id }}">
 	<meta name="twitter:app:name:ipad" content="{{ site.twitter.app.name }}">
 
-	<link rel="stylesheet" href="combo.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+{% include loadCSS.html %}
+
+	<script>
+	loadCSS( "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" );
+	loadCSS( "combo.css" );
+	</script>
 	
 </head>
 <body>
