@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "Angry Friends for Facebook! - Who unfriended me?"
 keywords:    "free, ios, app, facebook, unfriended, missed, lost, list, deleted, find, manager, finder, missing, birds, like, track, tracker, check, monitor, on, out, a, deleted, removed, friend, friends, leaked, eliminated, compare, unfriend, detector, show, erased, sadly, still"
-description: "Have you ever wondered who deleted you on Facebook? Angry Friends will show you who unfriended you!"
+description: "Whoever deletes you on Facebook, Angry Friends will uncover them!"
 google_analytics_key: UA-25289053-6 ## put YOUR key here to enable tracking! (blank to disable)
 appstore_link: "https://itunes.apple.com/app/angry-friends-for-facebook/id1122583310?ct=web&mt=8"
 # For example, my configuration is this:
