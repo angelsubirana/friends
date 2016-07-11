@@ -18,7 +18,7 @@ title:       "Angry Friends for Facebook! - Who unfriended me?"
 keywords:    "free, ios, app, facebook, unfriended, missed, lost, list, deleted, find, manager, finder, missing, birds, like, track, tracker, check, monitor, on, out, a, deleted, removed, friend, friends, leaked, eliminated, compare, unfriend, detector, show, erased, sadly, still"
 description: "Whoever deletes you on Facebook, Angry Friends will uncover them!"
 google_analytics_key: UA-25289053-6 ## put YOUR key here to enable tracking! (blank to disable)
-appstore_link: "https://itunes.apple.com/app/angry-friends-for-facebook/id1122583310?ct=web&mt=8"
+appstore_link: "https://itunes.apple.com/app/angry-friends-for-facebook/id1122583310?ct=web&mt=8&at=1000lom5"
 # For example, my configuration is this:
 url: https://test.bobgoo.com
 enforce_ssl: test.bobgoo.com
@@ -28,7 +28,7 @@ twitter:
     site: "@AngryFriendsApp"
     app:
         name: "Angry Friends for Facebook - Who unfriended me?"
-        id: 460723131   
+        id: 1122583310   
 
 defaults:
   -
@@ -37,7 +37,7 @@ defaults:
     values:
         image:
             #path: /img/Icon-Rounded-256.png
-            twitter: /img/Icon-Rounded-256.png
+            twitter: /img/FBBanner.png
             facebook: /img/FBBanner.png
             height: 630
             width: 1200
