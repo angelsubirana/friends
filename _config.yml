@@ -39,8 +39,8 @@ defaults:
             path: /img/Icon-Rounded-256.png
             #twitter: /img/Icon-Rounded-256.png
             facebook: /img/FBBanner.png
-            height: 256
-            width: 256
+            height: 1200
+            width: 630
 
   
 ### template colors, used site-wide via css ###
