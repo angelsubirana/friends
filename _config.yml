@@ -24,16 +24,12 @@ url: https://friends.bobgoo.com
 enforce_ssl: friends.bobgoo.com
 
 twitter:
-    card: summary_large_image
-    site: "@AngryFriendsApp"
-    app:
-        name: "Angry Friends for Facebook - Who unfriended me?"
-        id: 1122583310   
+    username: "@AngryFriendsApp"
 
 defaults:
   -
     scope:
-      path: ""
+        path: ""
     values:
         image:
             #path: /img/Icon-Rounded-256.png
