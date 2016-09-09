@@ -550,14 +550,6 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-features { border-color: #3B5998; }
-  #features { background-color: #3B5998 !important; color: #f8f8f8; }
-  #features a { color: #f8f8f8; }
-  #features .sectiondivider { color: #3B5998; }
-
-  
-  
-  
   nav .p-why { border-color: #338FFC; }
   #why { background-color: #338FFC !important; color: #f8f8f8; }
   #why a { color: #f8f8f8; }
