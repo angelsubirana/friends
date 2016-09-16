@@ -2,7 +2,7 @@
 
 All Rights Reserved. © 2016 [Angel Subirana](http://www.bobgoo.com)
 
-<a href="https://twitter.com/angryfriendsapp"><span class="fa-stack fa-lg">
+<a href="https://twitter.com/stillfriendsapp"><span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>
 <i class="fa fa-twitter fa-stack-1x" style="color: black;"></i>
 </span></a>
