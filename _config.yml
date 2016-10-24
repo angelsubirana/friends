@@ -26,6 +26,9 @@ enforce_ssl: friends.bobgoo.com
 twitter:
     username: "@StillFriendsApp"
 
+facebook:
+  app_id: 1004815779627356
+
 defaults:
   -
     scope:
