@@ -2,5 +2,6 @@ User-Agent: *
 Disallow: 
 Disallow: /privacy*
 Disallow: /tos*
+Disallow: /sitemap*
 
 Sitemap: https://friends.bobgoo.com/sitemap.xml
