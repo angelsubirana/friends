@@ -7,4 +7,5 @@
 ■ Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.<br />
 ■ Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.<br />
 ■ Read our terms of service <a href="https://friends.bobgoo.com/tos">here</a>.<br />
-■ Read our privacy policy <a href="https://friends.bobgoo.com/privacy">here</a>.
+■ Read our privacy policy <a href="https://friends.bobgoo.com/privacy">here</a>.<br />
+■ Manage your subscriptions <a href="https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/DirectAction/manageSubscriptions">here</a>.
