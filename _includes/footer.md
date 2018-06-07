@@ -1,12 +1,12 @@
 
 
-All Rights Reserved. © 2016 [Angel Subirana](https://www.bobgoo.com)
+All Rights Reserved. © 2016-2018 [Angel Subirana](https://www.bobgoo.com)
 
 <a href="https://twitter.com/StillFriendsApp"><span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>
 <i class="fa fa-twitter fa-stack-1x" style="color: black;"></i>
 </span></a>
-<a href="mailto:friends@bobgoo.com">
+<a href="mailto:support@bobgoo.com?subject=Still%20Friends%20Support">
 <span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>
 <i class="fa fa-envelope fa-stack-1x" style="color: black;"></i>
