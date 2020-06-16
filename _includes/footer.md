@@ -1,6 +1,6 @@
 
 
-All Rights Reserved. © 2019 [BOBGOO S.L.](https://www.bobgoo.com)
+All Rights Reserved. © 2020 [BOBGOO S.L.](https://www.bobgoo.com)
 
 <a href="https://twitter.com/StillFriendsApp"><span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>
